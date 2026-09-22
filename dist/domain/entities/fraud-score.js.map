@@ -1,0 +1,1 @@
+{"version":3,"file":"fraud-score.js","sourceRoot":"","sources":["../../../src/domain/entities/fraud-score.ts"],"names":[],"mappings":"AASA,MAAM,OAAO,UAAU;IAEH;IACA;IACA;IAHlB,YACkB,KAAa,EACb,KAAgB,EAChB,OAAiB;QAFjB,UAAK,GAAL,KAAK,CAAQ;QACb,UAAK,GAAL,KAAK,CAAW;QAChB,YAAO,GAAP,OAAO,CAAU;IAChC,CAAC;CACL"}

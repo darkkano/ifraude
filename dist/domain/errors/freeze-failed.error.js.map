@@ -1,0 +1,1 @@
+{"version":3,"file":"freeze-failed.error.js","sourceRoot":"","sources":["../../../src/domain/errors/freeze-failed.error.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,mBAAmB,CAAC;AAOhD,MAAM,OAAO,iBAAkB,SAAQ,WAAW;IAChD,YAAY,MAAc;QACxB,KAAK,CAAC,uCAAuC,MAAM,EAAE,CAAC,CAAC;IACzD,CAAC;CACF"}

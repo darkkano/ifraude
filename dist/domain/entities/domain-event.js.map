@@ -1,0 +1,1 @@
+{"version":3,"file":"domain-event.js","sourceRoot":"","sources":["../../../src/domain/entities/domain-event.ts"],"names":[],"mappings":"AASA,MAAM,OAAO,WAAW;IAEJ;IACA;IACA;IAHlB,YACkB,IAAY,EACZ,EAAU,EACV,OAAgC;QAFhC,SAAI,GAAJ,IAAI,CAAQ;QACZ,OAAE,GAAF,EAAE,CAAQ;QACV,YAAO,GAAP,OAAO,CAAyB;IAC/C,CAAC;CACL"}
